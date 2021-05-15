@@ -4,6 +4,7 @@
 
 - ReactJS
 - React Hooks
+- styled-components
 - Redux
 - Redux Persist
 - react-router-dom
